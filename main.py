@@ -157,7 +157,7 @@ def update():
     #plt.imshow(image,interpolation='nearest') # för användning av A*
     plt.draw()
     #plt.matshow(image, fignum = 0)
-    plt.pause(4.0001)
+    plt.pause(0.5001)
     #time.sleep(0.2) # För att delaya plotten
 
 ###
